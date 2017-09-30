@@ -1,0 +1,64 @@
+{
+    "results": [
+    {
+            "img" : "./images/plusSign.PNG",
+            "Description": "ADD A NEW TILE",
+            "tileHeader" : "Default",
+            "tileDescription" : "Click here to add a new tile"
+        },
+        {
+            "img" : "./images/tile1.png",
+            "Description": "EA UK",
+            "tileHeader" : "Asset Perfomance Benchmarking",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+                {
+            "img" : "./images/tile1.png",
+            "Description": "WRFM NGT",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+          {
+            "img" : "./images/tile2.png",
+            "Description": "OSCAR",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level" 
+        },
+          {
+            "img" : "./images/tile3.png",
+            "Description": "CRV",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+        {
+            "img" : "./images/tile1.png",
+            "Description": "P-Dash",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+                {
+            "img" : "./images/tile2.png",
+            "Description": "Global Logitics",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+        {
+            "img" : "./images/tile3.png",
+            "Description": "Global Logitics",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+        {
+            "img" : "./images/tile1.png",
+            "Description": "Global Production Dashboard",
+            "tileHeader" : "Process Effectivesness",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        },
+         {
+            "img" : "./images/tile2.png",
+            "Description": "Business Objects",
+            "tileHeader" : "Self Service BI",
+            "tileDescription" : "GPD provides drill down visuals of production data, costs and alarms on Regional, Cluster & Asset level"
+        }
+     ]
+}

@@ -1,0 +1,639 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body{font-family: 'FuturaMedium', Fallback, sans-serif;}
+
+@media  only screen and (min-width: 1281px) {
+	.classHeader {
+		margin-top: 2.0rem;
+		font-size: medium;
+		padding-left: 1rem;
+		float: left;
+		font-size : large;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 1%;
+	  display: inline-block;
+	  font-family : Futura;
+	  text-align: left;
+	}
+	.classDrowDownDiv{
+	padding-top : 0.5%;
+	padding-bottom : 1%;
+	text-align: right;
+	}
+	.imageSize{
+	   height : 200px;
+	   width : 200px;
+	}
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 200px;
+    width: 200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:200px 200px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 20;
+    margin: 150px 0px 0px 0px;
+    height: 200px;
+    width: 200px;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 200px;
+	height: 200px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 20px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+}
+ 
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+	.classHeader {
+		margin-top: 2.0rem;
+		font-size: medium;
+		padding-left: 1rem;
+		float: left;
+		font-size : large;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 1%;
+	  display: inline-block;
+	  font-family : Futura;
+	  text-align: left;
+	}
+	.classDrowDownDiv{
+	padding-top : 0.5%;
+	padding-bottom : 1%;
+	text-align: right;
+	}
+	
+	.imageSize{
+	   height : 200px;
+	   width : 200px;
+	}
+	
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 200px;
+    width: 200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:200px 200px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 20;
+    margin: 150px 0px 0px 0px;
+    height: 200px;
+    width: 200px;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 200px;
+	height: 200px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 20px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+}
+ 
+}
+
+@media   only screen and (min-width: 768px) and (max-width: 1024px) {
+	.classHeader {
+		margin-top: 2.0rem;
+		font-size: medium;
+		padding-left: 1rem;
+		float: left;
+		font-size : large;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 1%;
+	  display: inline-block;
+	  font-family : Futura;
+	  text-align: left;
+	}
+	.classDrowDownDiv{
+	padding-top : 0.5%;
+	padding-bottom : 1%;
+	text-align: right;
+	}
+	
+	.imageSize{
+	   height : 200px;
+	   width : 200px;
+	}
+	
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 200px;
+    width: 200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:200px 200px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 20;
+    margin: 150px 0px 0px 0px;
+    height: 200px;
+    width: 200px;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 200px;
+	height: 200px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 20px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+}
+ 
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media  only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  	.classHeader {
+		margin-top: 2.0rem;
+		font-size: medium;
+		padding-left: 1rem;
+		float: left;
+		font-size : large;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 1%;
+	  display: inline-block;
+	  font-family : Futura;
+	  text-align: left;
+	}
+	.classDrowDownDiv{
+	padding-top : 0.5%;
+	padding-bottom : 1%;
+	text-align: right;
+	}
+	
+	.imageSize{
+	   height : 200px;
+	   width : 200px;
+	}
+	
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 200px;
+    width: 200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:200px 200px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 20;
+    margin: 150px 0px 0px 0px;
+    height: 200px;
+    width: 200px;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 200px;
+	height: 200px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 20px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+}
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media  only screen  and (min-width: 481px) and (max-width: 767px) and (orientation: landscape) {
+	.classHeader {
+		margin-top: 27px;
+		float: left;
+		padding-left: 1rem;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  padding-left: 1rem;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 3%;
+	  display: inline-block;
+	  font-family : Futura;
+	}
+	.classDrowDownDiv{
+	padding : 2%;
+	text-align : right;
+	}
+	.imageSize{
+	   height : 100px;
+	   width : 100px;
+	}
+	
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 100px;
+    width: 100px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:100px 100px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    font-family : Futura;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 10px;
+    margin: 75px 0px 0px 0px;
+    height: 100px;
+    width: 100px;
+    font-family : Futura;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 100px;
+	height: 100px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 10px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+    font-family : Futura;
+}
+   
+}
+
+@media only screen and (min-device-width : 321px) and (max-device-width
+	: 480px) {
+	.classHeader {
+		margin-top: -39px;
+		margin-left: 99px;
+		float: left;
+		padding-left: 1rem;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  padding-left: 1rem;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 3%;
+	  display: inline-block;
+	  width : 100%;
+	  font-family : Futura;
+	}
+	.classDrowDownDiv{
+	padding : 2%;
+	}
+	.imageSize{
+	   height : 100px;
+	   width : 100px;
+	}
+	
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 100px;
+    width: 100px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:100px 100px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    font-family : Futura;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 10px;
+    margin: 75px 0px 0px 0px;
+    height: 100px;
+    width: 100px;
+    font-family : Futura;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 100px;
+	height: 100px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 10px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+    font-family : Futura;
+}
+ 
+}
+
+@media only screen and (max-device-width
+	: 320px) {
+	.classHeader {
+		margin-top: -58px;
+		margin-left: 99px;
+		float: left;
+		padding-left: 1rem;
+		font-family : Futura;
+	}
+	.classImage {
+		padding-top: 1rem;
+		float: left
+	}
+	.classDropdownText{
+	  display: inline-block;
+	  padding-left: 1rem;
+	  font-family : Futura;
+	}
+	.classDrowdown{
+	  margin-right : 3%;
+	  display: inline-block;
+	  width : 100%;
+	  font-family : Futura;
+	}
+	.classDrowDownDiv{
+	padding : 2%;
+	}
+	.imageSize{
+	   height : 100px;
+	   width : 100px;
+	}
+	
+	.tile{
+    float:left;
+	margin: 8px;
+	height: 100px;
+    width: 100px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size:100px 100px;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    font-family : Futura;
+    box-shadow: inset 0 0 1em #eae8e8, 0 0 1em #bfbfbf;
+
+}
+ 
+.caption{
+    background-color: rgba(217,217,217,0.4);
+    overflow: hidden;
+    color: #000;
+	font-size: 10px;
+    margin: 75px 0px 0px 0px;
+    height: 100px;
+    width: 100px;
+    font-family : Futura;
+    transition: margin .5s ease-in-out;
+}
+
+.caption img {
+	width: 100px;
+	height: 100px;
+}
+ 
+.caption:hover {
+    transition: margin .5s;
+    margin: 0px 0px 10px 0px;
+    background-color: rgba(217,217,217,0.4);
+    cursor: pointer;
+    font-family : Futura;
+}
+ 
+}
+
+#listView {
+	padding: 10px 5px;
+	margin-bottom: -1px;
+/* 	min-height: 510px; */
+	/* Avoid cutout if font or line is bigger */
+	font: inherit;
+	border-color : #ffffff;
+	overflow : hidden;
+}
+
+#listView1 {
+	padding: 10px 5px;
+	margin-bottom: -1px;
+/* 	min-height: 510px; */
+	/* Avoid cutout if font or line is bigger */
+	font: inherit;
+	border-color : #ffffff;
+	overflow : hidden;
+}
+#listView2 {
+	padding: 10px 5px;
+	margin-bottom: -1px;
+/* 	min-height: 510px; */
+	/* Avoid cutout if font or line is bigger */
+	font: inherit;
+	border-color : #ffffff;
+	overflow : hidden
+}
+.k-listview:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+#tabstrip h2 {
+	font-weight: lighter;
+	font-size: 5em;
+	line-height: 1;
+	padding: 0 0 0 30px;
+	margin: 0;
+	font-family : Futura;
+}
+
+#tabstrip h2 span {
+	background: none;
+	padding-left: 5px;
+	font-size: .3em;
+	vertical-align: top;
+	font-family : Futura;
+}
+
+#tabstrip p {
+	padding: 0;
+	font-family : Futura;
+}
+
+#tabstrip {
+	margin: 2%;
+	font-family : Futura;
+}
+
+#tabstrip > .k-content
+{
+    overflow: auto;
+}
+
+#tileDescription{
+    overflow: hidden;
+    margin: 25px 0px 0px 0px;
+}
+.k-tabstrip-top>.k-tabstrip-items>.k-item {
+    border-width: 0 0 8px 0;
+    border-bottom-style: solid;
+    margin: 0 1.8em 0 0;
+}
+.k-tabstrip .k-tabstrip-items .k-state-active {
+    border-color: #db4240;
+}
+.km-content {
+    min-height: 1px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    flex-align: stretch;
+    display: block;
+    width: auto;
+    /* overflow: hidden; */
+    position: relative;
+}
